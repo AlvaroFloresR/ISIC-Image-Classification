@@ -1,5 +1,9 @@
-# ISIC-Image-Classification
-ISIC 2017 and 2020 Image Classification based on both datasets with traditional and deep learning approaches. It uses Tensorflow through Keras and Sci-Kit for the implementation.
+# ISIC Image Classification with Deep Learning and Machine Learning
+
+ISIC 2017 and 2020 Image Classification based on both datasets with traditional and deep learning approaches. It uses Tensorflow through Keras and Sci-Kit for the implementation. Traditional machine learning methods rely in the data provided to describe the lession. Deep learning (CNN) use only the image.
+
+## Potential Improvements
+Ensemble machine + deep learning methods could be used to mix both analysis and improve results
 
 ## Highlights
 
